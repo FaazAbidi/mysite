@@ -1,4 +1,4 @@
-/* html,
+html,
 body {
     height: 100%;
     display: flex;
@@ -7,7 +7,7 @@ body {
 }
 
 body {
-    background: url("https://media.giphy.com/media/3oFyCZm9jPjlzsAwXS/giphy.gif");
+    background: url("https://media.giphy.com/media/1yT8T3tCobJWlMW7NO/giphy.gif");
     background-size: cover;
     background-position: center;
 }
@@ -22,15 +22,4 @@ h1 {
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
-} */
-
-html,
-body {
-    background: #111;
-    text-align: center;
-}
-
-canvas {
-    margin: 0 auto;
-    box-sizing: content-box;
 }
